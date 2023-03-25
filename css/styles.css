@@ -11,6 +11,11 @@ body {
   color: #fff;
 }
 
+a {
+  color: inherit;
+  font-weight: bold;
+}
+
 .header {
   border-bottom: 1px solid #454444;
   min-height: 60px;
